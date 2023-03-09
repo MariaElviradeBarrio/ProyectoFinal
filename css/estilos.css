@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://opem.b-cdn.net/wp-content/uploads/2021/10/Expertos-en-curri%CC%81culum-vitae.png.webp");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+    background-size: contain;
+    margin-left: 700px;
+    width: max-content; 
+    background-color:lightgoldenrodyellow ;
+} 
+
+h1 {  
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color: gray;    
+    text-align: center;
+    text-decoration-line: overline;
+    text-decoration-color:violet ;
+    font-size: 38px;
+}
+
+h2 {
+    color: lightgoldenrodyellow;
+}
+
+strong {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color:black;
+}
+
+li {
+    color:darkslategrey ;
+    list-style-type: square;
+    
+}
+
+div {
+    font-family: 'Open Sans', sans-serif;
+    width: 600px;
+    height: 600px;
+    border: 1px solid lightgoldenrodyellow;
+    text-align: justify;
+    
+}  
+
+
+
+p {
+    line-height: 1.8;
+
+}
+
+
+
+
